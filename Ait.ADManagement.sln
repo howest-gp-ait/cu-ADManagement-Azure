@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ait.ADManagement.Wpf", "Ait.ADManagement.Wpf\Ait.ADManagement.Wpf.csproj", "{A4FCEACD-3556-4EB5-9207-1EB3F08A83EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ait.ADManagement.Core", "Ait.ADManagement.Core\Ait.ADManagement.Core.csproj", "{9FF7531E-EAD0-4F47-B1EA-9B7A2D783E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4FCEACD-3556-4EB5-9207-1EB3F08A83EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FCEACD-3556-4EB5-9207-1EB3F08A83EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FCEACD-3556-4EB5-9207-1EB3F08A83EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FCEACD-3556-4EB5-9207-1EB3F08A83EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF7531E-EAD0-4F47-B1EA-9B7A2D783E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF7531E-EAD0-4F47-B1EA-9B7A2D783E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF7531E-EAD0-4F47-B1EA-9B7A2D783E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF7531E-EAD0-4F47-B1EA-9B7A2D783E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79FB7FF-AD40-48BD-96B8-82132C4E9167}
+	EndGlobalSection
+EndGlobal
